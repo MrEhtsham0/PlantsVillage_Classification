@@ -1,4 +1,4 @@
-# Chicken-Disease-Classification-CNN
+# Plant Village Disease Classification using Transfer Learning
 
 ## Software and Tools Requirements
 
