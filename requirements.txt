@@ -1,0 +1,5 @@
+tensorflow
+numpy
+fastapi
+PIL
+uuid
